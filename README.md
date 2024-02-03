@@ -5,7 +5,7 @@
 
 ### 📕 Sources
 
-<img src="https://github.com/sgryu23/CS-study/" width="300">
+<img src="https://github.com/sgryu23/CS-study/assets/img_src1" width="300">
 <br>
 <br>
 
