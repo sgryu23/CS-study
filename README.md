@@ -4,9 +4,18 @@
 ## ✔ Info
 
 ### 📕 Sources
-
-<img src="https://github.com/sgryu23/CS-study/assets/img_src1" width="300">
+#### 1. 면접을 위한 CS 전공지식 노트
+<img src="https://github.com/sgryu23/CS-study/assets/139521783/ae24c47c-3d36-4f17-8ebb-aea91aa80c44" width="300">
 <br>
+
+#### 2. 프로그래머스 SQL 고득점 Kit
+<img src="https://github.com/sgryu23/CS-study/assets/139521783/d8866d47-c1ee-4e2a-8e94-301ec639fab2" width="80%">
+
+<a href="https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit">https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit<a/>
+<br>
+
+#### 3. 이산 수학 기초 강의
+<a href="https://www.youtube.com/watch?v=TLszG8J8mgs&list=PLRx0vPvlEmdDgOIBt9MKQl-uMVrxtac4n">https://www.youtube.com/watch?v=TLszG8J8mgs&list=PLRx0vPvlEmdDgOIBt9MKQl-uMVrxtac4n</a>
 <br>
 
 ### 🧑‍🤝‍🧑 Members
