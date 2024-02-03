@@ -17,6 +17,7 @@
 #### 3. 이산 수학 기초 강의
 <a href="https://www.youtube.com/watch?v=TLszG8J8mgs&list=PLRx0vPvlEmdDgOIBt9MKQl-uMVrxtac4n">https://www.youtube.com/watch?v=TLszG8J8mgs&list=PLRx0vPvlEmdDgOIBt9MKQl-uMVrxtac4n</a>
 <br>
+<br>
 
 ### 🧑‍🤝‍🧑 Members
 
