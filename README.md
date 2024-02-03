@@ -9,7 +9,7 @@
 <br>
 
 #### 2. 프로그래머스 SQL 고득점 Kit
-<img src="https://github.com/sgryu23/CS-study/assets/139521783/d8866d47-c1ee-4e2a-8e94-301ec639fab2" width="80%">
+<img src="https://github.com/sgryu23/CS-study/assets/139521783/ad7c2623-3940-4f71-8106-1fce476fa4a6" width="80%">
 
 <a href="https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit">https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit<a/>
 <br>
