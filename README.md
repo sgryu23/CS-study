@@ -91,21 +91,27 @@ week01 sgryu23 PR
  ```
  .
  ├── week01
- │   ├── quiz
- │   |   ├── quiz.txt(md)
- │   │   └── answer.txt(md)
  │   ├── user-name-1
+ │   |   ├── quiz
+ │   |   |   ├── quiz.md
+ |   |   |   └── answer.md
  │   |   ├── study-title.md
  │   │   └── study-title.txt
  │   └── user-name-2
+ │       ├── quiz
+ │       |   ├── quiz.md
+ |       |   └── answer.md
  │       └── study-title-2.md
  └── week02
-     ├── quiz
-     |   ├── quiz.txt(md)
-     │   └── answer.txt(md)
      ├── user-name-1
+     |   ├── quiz
+     |   |   ├── quiz.md
+     |   |   └── answer.md
      │   └── study-title.txt
      └── user-name-2
+         ├── quiz
+         |   ├── quiz.md
+         |   └── answer.md
          ├── study-title.txt
          └── study-title-2.md
  ```
