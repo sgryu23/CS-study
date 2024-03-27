@@ -3,7 +3,7 @@
 * 이름을 통해 데이터로 접근 가능
 * 메모리 활용 최적화
 ```python
-from collections import namedtuple
+from collections import namedtuple0
 
 point = namedtuple('point', ['x', 'y'])
 p = point(11, y=22)
